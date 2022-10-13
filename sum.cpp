@@ -14,6 +14,7 @@ int main() {
   // prints sum 
   cout << first_number << " + " <<  second_number << " = " << sum;
   cout << "Hey this is amit practicing git bash";    
+  cout << "Hey this is amit gujjar practicing git bash";    
 
   return 0;
 }
